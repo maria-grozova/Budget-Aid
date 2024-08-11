@@ -10,6 +10,30 @@ IMAGE
 ● Wireframes
 ● Database structure(PP3, PP4, PP5)
 ● Anything else you want to add that relates to UX/UI
+Problem Statement
+
+Purpose
+
+Target Audience
+
+MVP Features
+
+Additional Features
+
+User Stories
+
+Use Cases
+
+Data Model
+
+User Flow
+
+Wireframes
+
+Prioritise Features
+
+MVP Scope
+
 ###
 ###
 ## Features
